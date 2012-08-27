@@ -1,0 +1,32 @@
+{
+  "name": "append-to",
+  "version": "0.0.1",
+  "description": "A base for appendable widget",
+  "keywords": [],
+  "author": "Raynos <raynos2@gmail.com>",
+  "repository": "git://github.com/Raynos/append-to.git",
+  "main": "index",
+  "homepage": "https://github.com/Raynos/append-to",
+  "contributors": [
+    {
+      "name": "Jake Verbaten"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Raynos/append-to/issues",
+    "email": "raynos2@gmail.com"
+  },
+  "dependencies": {
+    "browserify-server": "~1.1.3"
+  },
+  "devDependencies": {
+    "fragment": "~0.3.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/Raynos/append-to/raw/master/LICENSE"
+    }
+  ],
+  "scripts": {}
+}
